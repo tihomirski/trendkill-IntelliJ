@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="tvv_machine__libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tvv_machine_test/libs/junit-4.12-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tvv_machine_test/libs/mockito-core-3.5.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tvv_machine_test/libs/testng-6.14.3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tvv_machine_test/libs/testng-6.14.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tvv_machine_test/libs/objenesis-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tvv_machine_test/libs/mockito-inline-3.5.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tvv_machine_test/libs/jna-5.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tvv_machine_test/libs/hamcrest-core-1.3-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tvv_machine_test/libs/jna-platform-5.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tvv_machine_test/libs/hamcrest-core-1.3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tvv_machine_test/libs/testng-6.14.3-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tvv_machine_test/libs/byte-buddy-1.10.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tvv_machine_test/libs/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tvv_machine_test/libs/javassist-3.27.0-GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tvv_machine_test/libs/junit-4.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tvv_machine_test/libs/byte-buddy-agent-1.10.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tvv_machine_test/libs/junit-4.12-javadoc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
