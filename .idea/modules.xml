@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/FXCM_java/FXCM-API-Offerings-master/FXCM-API-Offerings-master.iml" filepath="$PROJECT_DIR$/FXCM_java/FXCM-API-Offerings-master/FXCM-API-Offerings-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FXCM_java/trading_sdk/trading_sdk/fxcm-api/fxcm-api.iml" filepath="$PROJECT_DIR$/FXCM_java/trading_sdk/trading_sdk/fxcm-api/fxcm-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FXCM_java/trading_sdk/trading_sdk/tradestation/tradestation.iml" filepath="$PROJECT_DIR$/FXCM_java/trading_sdk/trading_sdk/tradestation/tradestation.iml" />
       <module fileurl="file://$PROJECT_DIR$/tvv_machine/tvv_machine.iml" filepath="$PROJECT_DIR$/tvv_machine/tvv_machine.iml" />
       <module fileurl="file://$PROJECT_DIR$/tvv_machine_test/tvv_machine_test.iml" filepath="$PROJECT_DIR$/tvv_machine_test/tvv_machine_test.iml" />
     </modules>

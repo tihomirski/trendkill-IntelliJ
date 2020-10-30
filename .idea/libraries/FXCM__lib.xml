@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="FXCM__lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/FXCM_java/trading_sdk/trading_sdk/tradestation/lib/fxmsg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FXCM_java/trading_sdk/trading_sdk/tradestation/lib/fxcm-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FXCM_java/trading_sdk/trading_sdk/tradestation/lib/tradestation.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
