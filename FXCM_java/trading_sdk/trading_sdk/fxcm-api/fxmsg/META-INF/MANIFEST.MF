@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.4
+Created-By: 1.8.0_71-b15 (Oracle Corporation)
+Implementation-Title: FXCM Messaging Client Frameworks
+Implementation-Version: 7.33.1607.1114
+Implementation-Vendor: FXCM LLC
+
+Name: fxmsg.jar
+

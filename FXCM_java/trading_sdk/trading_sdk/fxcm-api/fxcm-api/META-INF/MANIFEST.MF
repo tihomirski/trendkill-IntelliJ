@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.3
+Created-By: 1.8.0_71-b15 (Oracle Corporation)
+Implementation-Title: FXCM Trading API
+Implementation-Version: J6.00.1607.1115
+Implementation-Vendor: FXCM LLC
+
+Name: fxcm-api.jar
+
