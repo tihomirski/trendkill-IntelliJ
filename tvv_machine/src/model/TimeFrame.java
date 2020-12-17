@@ -30,13 +30,13 @@ public class TimeFrame {
      * If you have more reasoners and all of them are telling you to sell (or buy), the more confident you will be to sell (or buy).
      * You can make some kind of combination between them. Perhaps also weighting them.
      */
-    private Reasoner reasoner;
+    private List<Reasoner> reasoners;
     long timeToOpenNewCandle;
 
-    public TimeFrame(long period, Reasoner reasoner) {
+    public TimeFrame(long period, List<Reasoner> reasoners) {
         this.period = period;
         candles = new ArrayList<>();
-        this.reasoner = reasoner;
+        this.reasoners = reasoners;
     }
 
     public void addTick(Tick tick) {

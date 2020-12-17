@@ -43,4 +43,6 @@ public class TrueFXHistoricalReader implements BasicReader {
         int breakpoint = 0;
     }
 
+
+
 }
